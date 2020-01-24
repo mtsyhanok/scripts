@@ -1,4 +1,4 @@
-MDMS API Tests
+Scripts
 ==================
 Instructions how to run tests on local machine.
 
